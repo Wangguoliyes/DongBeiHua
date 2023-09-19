@@ -1,2 +1,3 @@
 # DongBeiHua
-use dongbeihua to code ， cool ！
+using dongbeihua to code is a really awesome thing right?
+look at the .h file , you will konw everything you need.
